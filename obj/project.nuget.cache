@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dG6VaTNsI5JzrKF333molivGMObckVVv88oKdyDNVkmdD8HO0pK2uq3+W5aunq0aQYgO7YxSG2UyKtSjLNhJ5w==",
+  "success": true,
+  "projectFilePath": "E:\\projetos_vscode\\Modulo_A_Estruturar_E_Implementar_Banco_de_Dados_Para_Aplicacoes_Web\\extra\\projeto-destino-certo\\projeto-destino-certo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prysc\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
+    "C:\\Users\\prysc\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\prysc\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\prysc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
